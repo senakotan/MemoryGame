@@ -1,4 +1,4 @@
-# 🧠 Memory Game Project
+# 🧠 Memory Game 
 
 Welcome to the **Memory Game**!  
 This is a simple **memory matching game built with Java**. It tests your **memory and concentration** by having you match pairs of cards. The game includes features such as a **dynamic board size**, a **customizable number of lives**, and **random card placements** to make each game unique.
