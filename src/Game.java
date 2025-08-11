@@ -85,7 +85,7 @@ public class Game {
                 System.out.println("Invalid input or already revealed. Try again.");
             } catch (Exception e) {
                 System.out.println("Invalid input. Please enter two integers.");
-                scanner.nextLine(); // clear buffer
+                scanner.nextLine(); 
             }
         }
     }
